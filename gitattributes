@@ -1,0 +1,3 @@
+*.exe.config -text
+*.manifest -text
+*.application -text
